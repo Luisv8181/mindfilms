@@ -1,5 +1,27 @@
 [
  {
+  "id": "eating-disorders-claymation",
+  "title": "Eating Disorders & How Counselors Help",
+  "series": "Standalone",
+  "style": "Claymation · one continuous shot",
+  "topic": "Eating disorders · treatment",
+  "dur": "2:30",
+  "date": "2026-10-30",
+  "desc": "One camera move through a clay world: what eating disorders are, the treatment team, externalizing the disorder, CBT and family-based treatment, and recovery. Includes helpline info.",
+  "src": "APA practice guideline (2023); Eddy et al., 2017; National Alliance for Eating Disorders"
+ },
+ {
+  "id": "the-dsm-in-its-own-words",
+  "title": "The DSM, In Its Own Words",
+  "series": "Standalone",
+  "style": "Cyanotype photograms · documentary interview",
+  "topic": "The DSM: origins and limits",
+  "dur": "2:53",
+  "date": "2026-10-30",
+  "desc": "The DSM sits for an interview: census boxes in 1840, the 1917 hospital manual, Medical 203, DSM-I to DSM-III, removing homosexuality in 1973, and its limits.",
+  "src": "APA DSM history; Galatzer-Levy & Bryant, 2013; Nature (2013) on NIMH RDoC"
+ },
+ {
   "id": "psychoneuroimmunology-riso",
   "title": "Psychoneuroimmunology",
   "series": "Standalone",

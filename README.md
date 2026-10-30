@@ -7,6 +7,8 @@ Every frame is drawn in code, the voices and music are generated locally, and ea
 
 | Title | Series | Art style | Topic | Length |
 |---|---|---|---|---|
+| [Eating Disorders & How Counselors Help](videos/eating-disorders-claymation.mp4) | Standalone | Claymation · one continuous shot | Eating disorders · treatment | 2:30 |
+| [The DSM, In Its Own Words](videos/the-dsm-in-its-own-words.mp4) | Standalone | Cyanotype photograms · documentary interview | The DSM: origins and limits | 2:53 |
 | [Psychoneuroimmunology](videos/psychoneuroimmunology-riso.mp4) | Standalone | Risograph print (pink, blue, yellow) | Stress · immunity · the brain | 2:21 |
 | [Optimust: Does Language Shape Who You Are?](videos/optimust-does-language-shape-who-you-are.mp4) | Optimust | Pixel-art host + Glyphwork holograms | Language · identity · neuroscience | 1:58 |
 | [Does Language Shape Who You Are?](videos/does-language-shape-who-you-are.mp4) | Standalone | Glyphwork (16 writing systems) | Language · identity · neuroscience | 1:54 |
