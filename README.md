@@ -7,6 +7,7 @@ Every frame is drawn in code, the voices and music are generated locally, and ea
 
 | Title | Series | Art style | Topic | Length |
 |---|---|---|---|---|
+| [Field Notes on Humans · Ep. 3: Meditation](videos/bart-and-anni-field-notes-ep3-meditation.mp4) | Bart & Anni | Digital marbling · cut-paper characters | Meditation · mind-wandering | 2:33 |
 | [Eating Disorders & How Counselors Help](videos/eating-disorders-claymation.mp4) | Standalone | Claymation · one continuous shot | Eating disorders · treatment | 2:30 |
 | [The DSM, In Its Own Words](videos/the-dsm-in-its-own-words.mp4) | Standalone | Cyanotype photograms · documentary interview | The DSM: origins and limits | 2:53 |
 | [Psychoneuroimmunology](videos/psychoneuroimmunology-riso.mp4) | Standalone | Risograph print (pink, blue, yellow) | Stress · immunity · the brain | 2:21 |
