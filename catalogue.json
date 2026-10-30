@@ -1,5 +1,16 @@
 [
  {
+  "id": "psychoneuroimmunology-riso",
+  "title": "Psychoneuroimmunology",
+  "series": "Standalone",
+  "style": "Risograph print (pink, blue, yellow)",
+  "topic": "Stress · immunity · the brain",
+  "dur": "2:21",
+  "date": "2026-10-30",
+  "desc": "How the brain and immune system talk: conditioned immunity, cortisol and nerves into the spleen, cytokines and sickness behavior, stress and colds, slower wound healing, and what helps.",
+  "src": "Ader & Cohen, 1975; Felten et al., 1981; Cohen et al., 1991, 1998; Kiecolt-Glaser et al., 1995; Spiegel et al., 2002"
+ },
+ {
   "id": "optimust-does-language-shape-who-you-are",
   "title": "Optimust: Does Language Shape Who You Are?",
   "series": "Optimust",
