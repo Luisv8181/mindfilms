@@ -1,0 +1,157 @@
+[
+ {
+  "id": "does-language-shape-who-you-are",
+  "title": "Does Language Shape Who You Are?",
+  "series": "Standalone",
+  "style": "Glyphwork (16 writing systems)",
+  "topic": "Language · identity · neuroscience",
+  "dur": "1:54",
+  "date": "2026-10-29",
+  "desc": "Every image is built from letters of 16 writing systems. Bilingual personality shifts, Russian blues, why scoldings hit harder in your first language, and talking to yourself by name.",
+  "src": "Ramírez-Esparza et al., 2006; Winawer et al., 2007; Harris et al., 2003; Moser et al., 2017"
+ },
+ {
+  "id": "the-physiological-sigh-marbled",
+  "title": "The Physiological Sigh",
+  "series": "Standalone",
+  "style": "Digital paper marbling (after ebru & suminagashi)",
+  "topic": "Breathing · stress",
+  "dur": "1:16",
+  "date": "2026-10-29",
+  "desc": "Two inhales, one long exhale. Ink drops bloom on every breath and the exhale pulls them into shape. Includes two guided breaths.",
+  "src": "Balban et al., 2023, Cell Reports Medicine"
+ },
+ {
+  "id": "mind-field-dbt-deep-dive",
+  "title": "DBT, a Deep Dive",
+  "series": "Mind Field",
+  "style": "Mind Field particle film",
+  "topic": "Dialectical Behavior Therapy",
+  "dur": "3:12",
+  "date": "2026-10-29",
+  "desc": "Where DBT came from, what dialectical means, wise mind, the four skill sets, TIPP, DEAR MAN, the evidence, and a STOP practice.",
+  "src": "Linehan et al., 1991; McCauley et al., 2018 (JAMA Psychiatry); NIMH"
+ },
+ {
+  "id": "mind-field-importance-of-expressing",
+  "title": "The Importance of Expressing",
+  "series": "Mind Field",
+  "style": "Mind Field stipple comic (2×2 loop)",
+  "topic": "Journaling · affect labeling",
+  "dur": "0:16",
+  "date": "2026-10-29",
+  "desc": "A particle figure writes, and the feeling drains down the arm, out the pen, and onto the page. Loop plus a still image for static posts.",
+  "src": "Lieberman et al., 2007; Pennebaker & Beall, 1986",
+  "extra": "posters/mind-field-importance-of-expressing-still.png"
+ },
+ {
+  "id": "bart-and-anni-field-notes-ep2-awe",
+  "title": "Field Notes on Humans · Ep. 2: Awe",
+  "series": "Bart & Anni",
+  "style": "Lumengrave",
+  "topic": "Awe · the small self",
+  "dur": "2:12",
+  "date": "2026-10-29",
+  "desc": "Bart and Anni find a human staring at the stars, then work out why: vastness, the small self, the tree-and-pens study, awe walks, and the overview effect.",
+  "src": "Keltner & Haidt, 2003; Piff et al., 2015; Sturm et al., 2020; Frank White, 1987"
+ },
+ {
+  "id": "bart-and-anni-field-notes-ep1-v3",
+  "title": "Field Notes on Humans · Ep. 1: Insecurity",
+  "series": "Bart & Anni",
+  "style": "Lumengrave",
+  "topic": "Insecurity · core beliefs",
+  "dur": "2:23",
+  "date": "2026-10-29",
+  "desc": "Two small aliens study why humans hide. Where insecurity starts, how comparison and the belief loop keep it going, and four steps that help.",
+  "src": "Beck (core beliefs); Festinger, 1954; Neff (self-compassion)"
+ },
+ {
+  "id": "lumengrave-test",
+  "title": "Lumengrave Style Test",
+  "series": "Studio",
+  "style": "Lumengrave",
+  "topic": "Style development",
+  "dur": "0:08",
+  "date": "2026-10-29",
+  "desc": "The first test of the house style: engraved vellum plates lit by living light, with solarpunk flora.",
+  "src": ""
+ },
+ {
+  "id": "the-healers",
+  "title": "The Healers",
+  "series": "Standalone",
+  "style": "Nine culture-specific styles",
+  "topic": "Healing figures across cultures",
+  "dur": "3:59",
+  "date": "2026-10-29",
+  "desc": "Nine healing figures, each drawn in an art form from its own tradition: adire cloth, linocut, beadwork, chromolithograph, cut paper, red-figure pottery, Pahari miniature, runestone, and Haitian painting.",
+  "src": "See the video's on-screen sources"
+ },
+ {
+  "id": "mind-in-motion-05-ptsd",
+  "title": "Mind in Motion #05: PTSD",
+  "series": "Mind in Motion",
+  "style": "Pop comic",
+  "topic": "PTSD",
+  "dur": "1:32",
+  "date": "2026-10-29",
+  "desc": "An animated issue in the style of the Mind in Motion comic library: what PTSD is, how it shows up, and what helps.",
+  "src": "See the video's on-screen sources"
+ },
+ {
+  "id": "from-chains-to-care",
+  "title": "From Chains to Care",
+  "series": "Mind Field",
+  "style": "Mind Field particle film",
+  "topic": "History of mental healing",
+  "dur": "1:57",
+  "date": "2026-10-29",
+  "desc": "From al-Balkhi and the bimaristans to Geel, Pinel, the York Retreat, and the talking cure: how people learned to care for the mind.",
+  "src": "Hektoen International; Britannica; Middle East Eye"
+ },
+ {
+  "id": "healing-the-healer",
+  "title": "Healing the Healer",
+  "series": "Standalone",
+  "style": "Editorial illustration",
+  "topic": "Physician mental health",
+  "dur": "2:01",
+  "date": "2026-10-28",
+  "desc": "What doctors carry, the situations that wear them down, and what actually helps.",
+  "src": "See the video's on-screen sources"
+ },
+ {
+  "id": "shinrin-yoku-forest-bathing",
+  "title": "Shinrin-yoku: Forest Bathing",
+  "series": "Standalone",
+  "style": "Painted forest",
+  "topic": "Coping skill from Japan",
+  "dur": "1:25",
+  "date": "2026-10-28",
+  "desc": "Japan's practice of forest bathing, where it came from, and what the research says about time among trees.",
+  "src": "See the video's on-screen sources"
+ },
+ {
+  "id": "bart-and-anni-field-notes-ep1",
+  "title": "Ep. 1, second cut (first alien voices)",
+  "series": "Archive",
+  "style": "Lumengrave",
+  "topic": "Insecurity",
+  "dur": "2:13",
+  "date": "2026-10-29",
+  "desc": "The first Field Notes version, with navy Bart and the first pitched-up voices.",
+  "src": ""
+ },
+ {
+  "id": "bart-and-anni-ep1-insecurities",
+  "title": "Bart & Anni pilot: Where Insecurities Begin",
+  "series": "Archive",
+  "style": "Lumengrave",
+  "topic": "Insecurity",
+  "dur": "1:47",
+  "date": "2026-10-29",
+  "desc": "The original pilot, before the alien field-notes format.",
+  "src": ""
+ }
+]
