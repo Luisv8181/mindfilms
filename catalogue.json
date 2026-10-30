@@ -1,5 +1,16 @@
 [
  {
+  "id": "optimust-does-language-shape-who-you-are",
+  "title": "Optimust: Does Language Shape Who You Are?",
+  "series": "Optimust",
+  "style": "Pixel-art host + Glyphwork holograms",
+  "topic": "Language · identity · neuroscience",
+  "dur": "1:58",
+  "date": "2026-10-29",
+  "desc": "Optimust hosts and narrates, projecting every idea as a hologram: bilingual personality shifts, Russian blues, first-language emotion, and talking to yourself by name.",
+  "src": "Ramírez-Esparza et al., 2006; Winawer et al., 2007; Harris et al., 2003; Moser et al., 2017"
+ },
+ {
   "id": "does-language-shape-who-you-are",
   "title": "Does Language Shape Who You Are?",
   "series": "Standalone",

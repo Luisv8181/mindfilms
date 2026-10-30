@@ -7,6 +7,7 @@ Every frame is drawn in code, the voices and music are generated locally, and ea
 
 | Title | Series | Art style | Topic | Length |
 |---|---|---|---|---|
+| [Optimust: Does Language Shape Who You Are?](videos/optimust-does-language-shape-who-you-are.mp4) | Optimust | Pixel-art host + Glyphwork holograms | Language · identity · neuroscience | 1:58 |
 | [Does Language Shape Who You Are?](videos/does-language-shape-who-you-are.mp4) | Standalone | Glyphwork (16 writing systems) | Language · identity · neuroscience | 1:54 |
 | [The Physiological Sigh](videos/the-physiological-sigh-marbled.mp4) | Standalone | Digital paper marbling (after ebru & suminagashi) | Breathing · stress | 1:16 |
 | [DBT, a Deep Dive](videos/mind-field-dbt-deep-dive.mp4) | Mind Field | Mind Field particle film | Dialectical Behavior Therapy | 3:12 |

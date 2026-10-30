@@ -67,7 +67,7 @@ footer{border-top:1px solid var(--rule);padding:28px 0 48px;font-size:14px;color
 <script>
 const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 fetch('catalogue.json').then(r => r.json()).then(V => {
-  const order = ['All', 'Bart & Anni', 'Mind Field', 'Mind in Motion', 'Standalone', 'Studio', 'Archive'];
+  const order = ['All', 'Optimust', 'Bart & Anni', 'Mind Field', 'Mind in Motion', 'Standalone', 'Studio', 'Archive'];
   const series = order.filter(s => s === 'All' || V.some(v => v.series === s));
   const live = V.filter(v => v.series !== 'Archive'), mins = live.reduce((a, v) => { const [m, s] = v.dur.split(':').map(Number); return a + m * 60 + s; }, 0);
   document.getElementById('stats').innerHTML = `<span><b>${live.length}</b>films</span><span><b>${Math.round(mins / 60)} min</b>of animation</span><span><b>${new Set(live.map(v => v.style.split(' (')[0])).size}</b>art styles</span>`;
